@@ -12,3 +12,4 @@ const new_result = validator.isBoolean(name)
 console.log('Boolean Status is ' + result)
 
 console.log(chalk.green('Hello world!'));
+console.log(chalk.red('Hello world!'));
