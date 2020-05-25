@@ -1,0 +1,8 @@
+name: pr-validator
+description: Action that runs when PR is raised
+runs:
+  using: docker
+  image: Dockerfile
+branding:
+  icon: activity
+  color: white
